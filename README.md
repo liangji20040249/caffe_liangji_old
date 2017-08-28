@@ -1,7 +1,7 @@
 # caffe_liangji_old
 
 
-caffe for segment
+caffe with new layer codes for segment
 
 
 author: liangji
